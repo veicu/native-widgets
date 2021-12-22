@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+#
+# own settings
+#
+
+# Visual Studio cache/options directory
+.vs/
+
+# Build results
+bin/
+lib/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# User-specific files
+*.suo
+*.user
